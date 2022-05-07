@@ -1,0 +1,15 @@
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\bin\Debug\Курсач.exe.config
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\bin\Debug\Курсач.exe
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\bin\Debug\Курсач.pdb
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.csproj.AssemblyReference.cache
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.csproj.SuggestedBindingRedirects.cache
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.Form1.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.clients.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.tarif.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.service.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.Menu.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.Properties.Resources.resources
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.csproj.GenerateResource.cache
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.csproj.CoreCompileInputs.cache
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.exe
+C:\Users\IVANz490\Desktop\ARM-Internet-master\Курсач\obj\Debug\Курсач.pdb
